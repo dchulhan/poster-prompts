@@ -1,9 +1,10 @@
 # Your Details
 
-Copy this, fill in what you have, and paste it into any of the prompts.
+Copy this, fill in what you have, and paste it into any prompt or the designer brief.
 
 ```
 Event / Product / Stall name:
+Category (Food & Drink / Craft & Handmade / Fashion / Plants / Holiday / Community Event / Services / General Market):
 Dates:
 Times:
 Location (be specific):
